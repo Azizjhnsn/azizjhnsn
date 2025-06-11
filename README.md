@@ -1,18 +1,22 @@
 <!-- Profile Header -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <div>
-    <h1>Hey there, I'm Yerima Abdel Aziz 👨🏿‍💻</h1>
+    <h1>Hey there, I'm Yerima Abdel Aziz </h1>
     <p>A passionate fullstack developer crafting clean, scalable solutions.</p>
+    <p>Email: 📧 <a href="mailto:azizyerima3@gmail.com">azizyerima3@gmail.com</a></p>
   </div>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-       alt="3D Developer Animation"
-       width="180" />
+  <div style="display: flex; align-items: center; gap: 2rem;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+         alt="3D Developer Animation"
+         width="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizjhnsn&theme=radical" width="300" />
+  </div>
 </div>
 
 <br/>
 
-<!-- Skills + GitHub Stats Side by Side -->
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 2rem;">
+<!-- Skills Section -->
+<div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap;">
 
   <!-- Skills Section -->
   <div style="display: flex; flex-direction: column;">
@@ -44,13 +48,6 @@
   ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-00C4B3?logo=github&logoColor=white)
 
   </div>
-
-  <!-- GitHub Stats -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizjhnsn&theme=radical" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizjhnsn&layout=compact&theme=radical" width="300" />
-  </div>
-
 </div>
 
 ---
