@@ -48,7 +48,6 @@
   <!-- GitHub Stats -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizjhnsn&theme=radical" width="300" />
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizjhnsn&layout=compact&theme=radical" width="300" />
   </div>
 
