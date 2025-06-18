@@ -10,6 +10,7 @@
          alt="3D Developer Animation"
          width="180" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizjhnsn&theme=radical" width="300" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azizjhnsn&theme=github" alt="GitHub Commit Activity Graph" width="500"/>
   </div>
 </div>
 
